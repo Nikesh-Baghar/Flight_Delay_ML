@@ -1,4 +1,13 @@
 # Exploratory Data Analysis (EDA) Summary ✈ Flight Delay Prediction 
+Watch my video for a crisp explanation (prefer using headphones)
+
+https://www.loom.com/share/9acbb299fae54048bf169f773fb6e2e5?sid=27281e6b-9f20-4b25-8da3-b1f1f7cff079
+
+
+
+
+
+
 This EDA bridges technical data patterns with practical airline operations strategy — paving the way for a robust, business-impacting flight delay prediction system.
 # 📌 Objective
 The goal of this project is to analyze flight operation, weather, and scheduling data to identify patterns and drivers of departure delays (≥15 minutes).
